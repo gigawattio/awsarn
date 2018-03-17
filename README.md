@@ -12,6 +12,8 @@ More specifically, this is a Go (golang) library for validating, parsing, and co
 
 This package also provides the capability of determining if one ARN is a superset of another.  This is useful for safely eliminating redundant ARNs from a set.
 
+Created by [Jay Taylor](https://jaytaylor.com/) and used by [Gigawatt](https://gigawatt.io/).
+
 #### ARN Vocabulary
 
 The AWS documentation uses [two subtly different sets of vocabulary](#further-reading) when discussing the internal workings of ARNs:
